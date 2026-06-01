@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ZooApi.Api/ZooApi.Api.csproj" />
+  <Project Path="ZooApi.Application/ZooApi.Application.csproj" />
+  <Project Path="ZooApi.Infrastructure/ZooApi.Infrastructure.csproj" />
+</Solution>
