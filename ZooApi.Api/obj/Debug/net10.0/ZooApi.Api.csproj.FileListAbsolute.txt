@@ -31,3 +31,4 @@
 /home/database/ZooApi/ZooApi.Api/obj/Debug/net10.0/ZooApi.Api.pdb
 /home/database/ZooApi/ZooApi.Api/obj/Debug/net10.0/ZooApi.Api.genruntimeconfig.cache
 /home/database/ZooApi/ZooApi.Api/obj/Debug/net10.0/ref/ZooApi.Api.dll
+/home/database/ZooApi/ZooApi.Api/obj/Debug/net10.0/ZooApi.Api.sourcelink.json

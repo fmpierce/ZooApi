@@ -9,3 +9,4 @@
 /home/database/ZooApi/ZooApi.Application/obj/Debug/net10.0/refint/ZooApi.Application.dll
 /home/database/ZooApi/ZooApi.Application/obj/Debug/net10.0/ZooApi.Application.pdb
 /home/database/ZooApi/ZooApi.Application/obj/Debug/net10.0/ref/ZooApi.Application.dll
+/home/database/ZooApi/ZooApi.Application/obj/Debug/net10.0/ZooApi.Application.sourcelink.json
